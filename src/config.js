@@ -8,5 +8,5 @@ console.log(
   YT_API_KEY ? YT_API_KEY.slice(0, 8) + "..." : "MISSING"
 );
 
-export const DEFAULT_QUERY = "lofi";
+export const DEFAULT_QUERY = "sunkissed lofi citypop japanese";
 export const YT_API_BASE = "https://www.googleapis.com/youtube/v3";
